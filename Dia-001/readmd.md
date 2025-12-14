@@ -4,11 +4,11 @@ En esta parte vamos a hacer un landing page, unicamente con html
 
 ## Criterio de Aceptacion
 
-- **Header** con Mi nombre ❎
-- **Header** con Mi rol o lo que busco ❎
-- **Main** con Sobre mi ❎
-- **Main** con Que hago ❎
-- **Footer** contacto o texto simple
+- **Header** con Mi nombre ✅
+- **Header** con Mi rol o lo que busco ✅
+- **Main** con Sobre mi ✅
+- **Main** con Que hago ✅
+- **Footer** contacto o texto simple✅
 
 ## ¿Que debe tener? 
 
